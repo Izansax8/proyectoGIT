@@ -10,7 +10,7 @@ public class Operaciones {
         num1 = teclado.nextDouble();
         System.out.print("\nDime el segundo número: ");
         num2 = teclado.nextDouble();
-        System.out.print("\nIntroduce la operación deseada: ");
+        System.out.print("\nIntroduce la operación deseada : ");
         operacion = teclado.nextByte();
 
         switch (operacion){
