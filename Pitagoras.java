@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Pitagoras {
     public static void main(String[] args) {
-        final double NUMERO_PI = 3.141;
+        final double NUMERO_PI = 3.1416;
         int radio, altura, cateto1, cateto2;
         double base, circuloPerimetro, circuloArea, rectanguloArea, hipotenusaAlCuadrado, hipotenusa;
 
